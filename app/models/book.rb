@@ -7,15 +7,13 @@ end
 # SQL = "INSERT INTO books
 # VALUES" 
 
-# Active Record / Ruby
-# Book.create()
+# Book.create
 # Book.new
 
 # query all of our books
 
 # SQL = SELECT * FROM books
 
-# Active Record / Ruby
 # Book.all
 
 # query books table to get one book
